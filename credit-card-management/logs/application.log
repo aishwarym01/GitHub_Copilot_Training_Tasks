@@ -1,0 +1,1 @@
+2025-07-02T11:00:39.351+05:30  WARN 23576 --- [credit-card-management] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14h55m17s379ms762µs700ns).
